@@ -30,6 +30,8 @@ The project was implemented in stages:
 
 ## Demo
 
+Here, the player Jack is the bot
+
 <video width="1920" height="1080" align="center" src="https://github.com/user-attachments/assets/8f288ec7-7e8c-4bce-af92-937f594d8bd9"></video>
 
 ## Takeaway
